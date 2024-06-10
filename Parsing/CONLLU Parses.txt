@@ -1,0 +1,33 @@
+# text = Kahlih jahnah yiki taih
+1   Kahlih  Kahlih  NOUN    _   _   2   nsubj   _   _
+2   jahnah  jahnah  VERB    _   _   0   root    _   _
+3   yiki    yiki    ADV     _   _   2   advmod  _   _
+4   taih    taih    ADV     _   _   2   advmod  _   _
+
+# text = Chíchi bótäwä tsóh ñahlah wa
+1   Chíchi  Chíchi  NOUN    _   _   3   nsubj   _   _
+2   bótäwä  bótäwä  NUM     _   _   1   nummod  _   _
+3   tsóh    tsóh    VERB    _   _   0   root    _   _
+4   ñahlah  ñahlah  NOUN    _   _   3   obl     _   _
+5   wa      wa      ADP     _   _   4   case    _   _
+
+# text = Yís séhnáh Hanover ska
+1   Yís      Yís      PRON    _   _   2   nsubj   _   _
+2   séhnáh   séhnáh   VERB    _   _   0   root    _   _
+3   Hanover  Hanover  PROPN   _   _   2   obl     _   _
+4   ska      ska      ADP     _   _   3   case    _   _
+
+# text = Daniel te óshkoro yaká kätë́ bulíli bulíli
+1   Daniel  Daniel  PROPN   _   _   5   nsubj   _   _
+2   te      te      ADP     _   _   1   case    _   _
+3   óshkoro óshkoro NOUN    _   _   4   nmod    _   _
+4   yaká    yaká    NOUN    _   _   5   iobj    _   _
+5   kätë́    kätë́    VERB    _   _   0   root    _   _
+6   bulíli  bulíli  ADV     _   _   5   advmod  _   _
+7   bulíli  bulíli  ADV     _   _   6   compound:redup  _   _
+
+# text = Yís ahmíh mihnéhjuh shkáhblä
+1   Yís      Yís      PRON    _   _   2   nmod:poss   _   _
+2   ahmíh    ahmíh    NOUN    _   _   3   nsubj       _   _
+3   mihnéhjuh   mihnéhjuh   VERB    _   _   0   root    _   _
+4   shkáhblä    shkáhblä    VERB    _   _   3   xcomp   _   _
